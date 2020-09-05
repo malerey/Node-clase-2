@@ -48,5 +48,25 @@
     "colores": ["negro"],
     "sexo": "m",
     "disponible": true
+  },
+  {
+    "name": "Gato nuevo enviado desde un post",
+    "shortDesc": "Muy dulce y mimosa. Tiene seis dedos en una pata que asegura le dan superpoderes.",
+    "longDesc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit libero dolorum aliquam error expedita distinctio porro ducimus ex repellendus laboriosam. Sequi, doloribus autem? Unde commodi assumenda consequatur ratione numquam distinctio nihil blanditiis quae debitis sed eligendi modi architecto omnis aspernatur officia molestiae, vero nemo a quibusdam? Voluptatum eveniet blanditiis impedit.",
+    "img": "https://www.imagenesdegatos.net/wp-content/uploads/2015/12/gato-gris-ojos-naranja-3.jpg",
+    "colores": ["gris"],
+    "sexo": "f",
+    "disponible": true,
+    "id": 5
+  },
+  {
+    "name": "Otro gato desde el post",
+    "shortDesc": "Muy dulce y mimosa. Tiene seis dedos en una pata que asegura le dan superpoderes.",
+    "longDesc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit libero dolorum aliquam error expedita distinctio porro ducimus ex repellendus laboriosam. Sequi, doloribus autem? Unde commodi assumenda consequatur ratione numquam distinctio nihil blanditiis quae debitis sed eligendi modi architecto omnis aspernatur officia molestiae, vero nemo a quibusdam? Voluptatum eveniet blanditiis impedit.",
+    "img": "https://www.imagenesdegatos.net/wp-content/uploads/2015/12/gato-gris-ojos-naranja-3.jpg",
+    "colores": ["gris"],
+    "sexo": "f",
+    "disponible": true,
+    "id": 6
   }
 ]
